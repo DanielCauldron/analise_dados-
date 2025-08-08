@@ -77,4 +77,4 @@ O dataset analisado é público e contém informações fictícias ou anonimizad
 💡 Exemplo de Uso
 Notebook desenvolvido para fins de estudo e análise de dados de salários em tecnologia.
 
-📎 Veja o notebook completo em analise.ipynb
+📎 Veja o notebook completo em [notebooks/analise.ipynb](notebooks/analise.ipynb)
